@@ -14,7 +14,7 @@ public class Lect01 {
 //3        System.out.println(ints[1000]);
         // -//- стек трейс вызовов, откуда пошла ошибка
 //4        first();
-        System.out.println(divide(10, 0));
+ //       System.out.println(divide(10, 0));
 
     }
 
