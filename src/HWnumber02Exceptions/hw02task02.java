@@ -1,4 +1,4 @@
-package HWnumber02Exeptions;
+package HWnumber02Exceptions;
 
 public class hw02task02 {
 

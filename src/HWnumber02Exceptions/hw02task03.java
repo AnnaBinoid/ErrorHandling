@@ -1,4 +1,4 @@
-package HWnumber02Exeptions;
+package HWnumber02Exceptions;
 
 import java.io.FileNotFoundException;
 
