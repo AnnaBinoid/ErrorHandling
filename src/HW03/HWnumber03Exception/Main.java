@@ -1,4 +1,4 @@
-package HWnumber03Exception;
+package HW03.HWnumber03Exception;
 
 import HW03.HWnumber03Exception.DateWorkers.ParseData;
 import HWnumber03Exception.DateWorkers.WriteDataInFile;
